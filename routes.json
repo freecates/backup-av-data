@@ -1,0 +1,19 @@
+ 
+[
+    {
+        "route": "/",
+        "name": "Backup Audiovisuals"
+    },
+    {
+        "route": "/actualidad",
+        "name": "Actualidad"
+    },
+    {
+        "route": "/proyectos",
+        "name": "Proyectos"
+    },
+    {
+        "route": "/clientes",
+        "name": "Clientes"
+    }
+]
