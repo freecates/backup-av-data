@@ -19,6 +19,7 @@
             "Mantenimiento preventivo",
             "SAT (Reparaciones)"
         ],
+        "claim": "Soluciones audiovisuales e integradas de imagen y sonido",
         "url": "mantenimiento"
     },
     {
@@ -28,6 +29,7 @@
             "Propuesta técnica",
             "Suministro de los equipos audiovisuales con o sin técnico"
         ],
+        "claim": "Desarrollo, ejecución e infraestructura técnica en todo tipo de eventos",
         "url": "eventos"
     }
 ]
