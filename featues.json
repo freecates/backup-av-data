@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Integración",
+        "featureList": [
+            "Estudio y diseño del proyecto",
+            "Prescripción técnica",
+            "Suministro de los equipos",
+            "Instalación y configuración",
+            "Puesta en marcha",
+            "Garantía sujeta a mantenimiento"
+        ]
+    },
+    {
+        "title": "Mantenimiento",
+        "featureList": [
+            "Mantenimiento correctivo",
+            "Mantenimiento preventivo",
+            "SAT (Reparaciones)"
+        ]
+    },
+    {
+        "title": "Eventos",
+        "featureList": [
+            "Estudio y diseño del proyecto",
+            "Propuesta técnica",
+            "Suministro de los equipos audiovisuales con o sin técnico"
+        ]
+    }
+]
