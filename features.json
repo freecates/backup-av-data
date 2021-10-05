@@ -8,7 +8,8 @@
             "Instalación y configuración",
             "Puesta en marcha",
             "Garantía sujeta a mantenimiento"
-        ]
+        ],
+        "url": "integracion"
     },
     {
         "title": "Mantenimiento",
@@ -16,7 +17,8 @@
             "Mantenimiento correctivo",
             "Mantenimiento preventivo",
             "SAT (Reparaciones)"
-        ]
+        ],
+        "url": "mantenimiento"
     },
     {
         "title": "Eventos",
@@ -24,6 +26,7 @@
             "Estudio y diseño del proyecto",
             "Propuesta técnica",
             "Suministro de los equipos audiovisuales con o sin técnico"
-        ]
+        ],
+        "url": "eventos"
     }
 ]
