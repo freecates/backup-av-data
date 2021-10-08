@@ -10,7 +10,13 @@
             "Garantía sujeta a mantenimiento"
         ],
         "claim": "Soluciones audiovisuales e integradas de imagen y sonido",
-        "url": "integracion"
+        "url": "integracion",
+        "featureImage": {
+            "name": "Imágen destacada de los servicios de integración de Backup AV",
+            "url": "/servicios-integracion-bg.jpg",
+            "width": "2000",
+            "height": "1381"
+        }
     },
     {
         "title": "Mantenimiento",
@@ -20,7 +26,13 @@
             "SAT (Reparaciones)"
         ],
         "claim": "Soluciones audiovisuales e integradas de imagen y sonido",
-        "url": "mantenimiento"
+        "url": "mantenimiento",
+        "featureImage": {
+            "name": "Imágen destacada de los servicios de mantenimiento de Backup AV",
+            "url": "/servicios-mantenimiento-bg.jpg",
+            "width": "2000",
+            "height": "957"
+        }
     },
     {
         "title": "Eventos",
@@ -30,6 +42,12 @@
             "Suministro de los equipos audiovisuales con o sin técnico"
         ],
         "claim": "Desarrollo, ejecución e infraestructura técnica en todo tipo de eventos",
-        "url": "eventos"
+        "url": "eventos",
+        "featureImage": {
+            "name": "Imágen destacada de los servicios de eventos de Backup AV",
+            "url": "/servicios-eventos-bg.jpg",
+            "width": "2000",
+            "height": "957"
+        }
     }
 ]
