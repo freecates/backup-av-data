@@ -14,8 +14,8 @@
         "featureImage": {
             "name": "Imágen destacada de los servicios de integración de Backup AV",
             "url": "/servicios-integracion-bg.jpg",
-            "width": "2000",
-            "height": "1381"
+            "width": 2000,
+            "height": 1381
         }
     },
     {
@@ -30,8 +30,8 @@
         "featureImage": {
             "name": "Imágen destacada de los servicios de mantenimiento de Backup AV",
             "url": "/servicios-mantenimiento-bg.jpg",
-            "width": "2000",
-            "height": "957"
+            "width": 2000,
+            "height": 957
         }
     },
     {
@@ -46,8 +46,8 @@
         "featureImage": {
             "name": "Imágen destacada de los servicios de eventos de Backup AV",
             "url": "/servicios-eventos-bg.jpg",
-            "width": "2000",
-            "height": "957"
+            "width": 2000,
+            "height": 1333
         }
     }
 ]
