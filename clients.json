@@ -3,12 +3,12 @@
         "name": "Generalitat de Catalunya. Benestar Social",
         "img": {
             "color": {
-                "url": "/assets/img/clients/backup-av-client-generalitat-de-catalunya-benestar-social.jpg",
+                "url": "/assets/img/clients/backup-av-client-generalitat-de-catalunya-benestar-social.webp",
                 "width": 320,
                 "height": 320
             },
             "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-generalitat-de-catalunya-benestar-social.jpg",
+                "url": "/assets/img/clients/gray/backup-av-client-generalitat-de-catalunya-benestar-social.webp",
                 "width": 240,
                 "height": 240
             }
@@ -18,12 +18,12 @@
         "name": "Arquebisbat de Barcelona",
         "img": {
             "color": {
-                "url": "/assets/img/clients/backup-av-client-arquebisbat-de-barcelona.jpg",
+                "url": "/assets/img/clients/backup-av-client-arquebisbat-de-barcelona.webp",
                 "width": 320,
                 "height": 320
             },
             "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-arquebisbat-de-barcelona.jpg",
+                "url": "/assets/img/clients/gray/backup-av-client-arquebisbat-de-barcelona.webp",
                 "width": 240,
                 "height": 240
             }
@@ -33,12 +33,12 @@
         "name": "Ajuntament de Barcelona",
         "img": {
             "color": {
-                "url": "/assets/img/clients/backup-av-client-ajuntament-de-barcelona.jpg",
+                "url": "/assets/img/clients/backup-av-client-ajuntament-de-barcelona.webp",
                 "width": 320,
                 "height": 320
             },
             "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-ajuntament-de-barcelona.jpg",
+                "url": "/assets/img/clients/gray/backup-av-client-ajuntament-de-barcelona.webp",
                 "width": 240,
                 "height": 240
             }
@@ -48,12 +48,12 @@
         "name": "Institut Cartogràfic i Geològic de Catalunya",
         "img": {
             "color": {
-                "url": "/assets/img/backup-av-client-icgc-de-catalunya.jpg",
+                "url": "/assets/img/backup-av-client-icgc-de-catalunya.webp",
                 "width": 320,
                 "height": 320
             },
             "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-icgc-de-catalunya.jpg",
+                "url": "/assets/img/clients/gray/backup-av-client-icgc-de-catalunya.webp",
                 "width": 240,
                 "height": 240
             }
@@ -63,12 +63,12 @@
         "name": "Metges sense fronteres",
         "img": {
             "color": {
-                "url": "/assets/img/backup-av-client-metges-sense-fronteres.jpg",
+                "url": "/assets/img/backup-av-client-metges-sense-fronteres.webp",
                 "width": 320,
                 "height": 320
             },
             "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-metges-sense-fronteres.jpg",
+                "url": "/assets/img/clients/gray/backup-av-client-metges-sense-fronteres.webp",
                 "width": 240,
                 "height": 240
             }
@@ -83,7 +83,7 @@
                 "height": 320
             },
             "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-abd-fundacion.jpg",
+                "url": "/assets/img/clients/gray/backup-av-client-abd-fundacion.webp",
                 "width": 240,
                 "height": 240
             }
@@ -93,12 +93,12 @@
         "name": "Universitat Politècnica de Catalunya",
         "img": {
             "color": {
-                "url": "/assets/img/backup-av-client-upc.jpg",
+                "url": "/assets/img/backup-av-client-upc.webp",
                 "width": 320,
                 "height": 320
             },
             "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-upc.jpg",
+                "url": "/assets/img/clients/gray/backup-av-client-upc.webp",
                 "width": 240,
                 "height": 240
             }
@@ -108,12 +108,12 @@
         "name": "Institut de Cultura de Barcelona",
         "img": {
             "color": {
-                "url": "/assets/img/backup-av-client-ajuntament-de-barcelona-icub.jpg",
+                "url": "/assets/img/backup-av-client-ajuntament-de-barcelona-icub.webp",
                 "width": 320,
                 "height": 320
             },
             "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-ajuntament-de-barcelona-icub.jpg",
+                "url": "/assets/img/clients/gray/backup-av-client-ajuntament-de-barcelona-icub.webp",
                 "width": 240,
                 "height": 240
             }
