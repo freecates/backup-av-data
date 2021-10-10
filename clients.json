@@ -1,122 +1,132 @@
 [
     {
-        "name": "Generalitat de Catalunya. Benestar Social",
-        "img": {
-            "color": {
-                "url": "/assets/img/clients/backup-av-client-generalitat-de-catalunya-benestar-social.webp",
-                "width": 320,
-                "height": 320
+        "clients": [
+            {
+                "name": "Generalitat de Catalunya. Benestar Social",
+                "img": {
+                    "color": {
+                        "url": "/assets/img/clients/backup-av-client-generalitat-de-catalunya-benestar-social.webp",
+                        "width": 320,
+                        "height": 320
+                    },
+                    "gray": {
+                        "url": "/assets/img/clients/gray/backup-av-client-generalitat-de-catalunya-benestar-social.webp",
+                        "width": 240,
+                        "height": 240
+                    }
+                }
             },
-            "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-generalitat-de-catalunya-benestar-social.webp",
-                "width": 240,
-                "height": 240
-            }
-        }
-    },
-    {
-        "name": "Arquebisbat de Barcelona",
-        "img": {
-            "color": {
-                "url": "/assets/img/clients/backup-av-client-arquebisbat-de-barcelona.webp",
-                "width": 320,
-                "height": 320
+            {
+                "name": "Arquebisbat de Barcelona",
+                "img": {
+                    "color": {
+                        "url": "/assets/img/clients/backup-av-client-arquebisbat-de-barcelona.webp",
+                        "width": 320,
+                        "height": 320
+                    },
+                    "gray": {
+                        "url": "/assets/img/clients/gray/backup-av-client-arquebisbat-de-barcelona.webp",
+                        "width": 240,
+                        "height": 240
+                    }
+                }
             },
-            "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-arquebisbat-de-barcelona.webp",
-                "width": 240,
-                "height": 240
-            }
-        }
-    },
-    {
-        "name": "Ajuntament de Barcelona",
-        "img": {
-            "color": {
-                "url": "/assets/img/clients/backup-av-client-ajuntament-de-barcelona.webp",
-                "width": 320,
-                "height": 320
+            {
+                "name": "Ajuntament de Barcelona",
+                "img": {
+                    "color": {
+                        "url": "/assets/img/clients/backup-av-client-ajuntament-de-barcelona.webp",
+                        "width": 320,
+                        "height": 320
+                    },
+                    "gray": {
+                        "url": "/assets/img/clients/gray/backup-av-client-ajuntament-de-barcelona.webp",
+                        "width": 240,
+                        "height": 240
+                    }
+                }
             },
-            "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-ajuntament-de-barcelona.webp",
-                "width": 240,
-                "height": 240
-            }
-        }
-    },
-    {
-        "name": "Institut Cartogràfic i Geològic de Catalunya",
-        "img": {
-            "color": {
-                "url": "/assets/img/clients/backup-av-client-icgc-de-catalunya.webp",
-                "width": 320,
-                "height": 320
+            {
+                "name": "Institut Cartogràfic i Geològic de Catalunya",
+                "img": {
+                    "color": {
+                        "url": "/assets/img/clients/backup-av-client-icgc-de-catalunya.webp",
+                        "width": 320,
+                        "height": 320
+                    },
+                    "gray": {
+                        "url": "/assets/img/clients/gray/backup-av-client-icgc-de-catalunya.webp",
+                        "width": 240,
+                        "height": 240
+                    }
+                }
             },
-            "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-icgc-de-catalunya.webp",
-                "width": 240,
-                "height": 240
-            }
-        }
-    },
-    {
-        "name": "Metges sense fronteres",
-        "img": {
-            "color": {
-                "url": "/assets/img/clients/backup-av-client-metges-sense-fronteres.webp",
-                "width": 320,
-                "height": 320
+            {
+                "name": "Metges sense fronteres",
+                "img": {
+                    "color": {
+                        "url": "/assets/img/clients/backup-av-client-metges-sense-fronteres.webp",
+                        "width": 320,
+                        "height": 320
+                    },
+                    "gray": {
+                        "url": "/assets/img/clients/gray/backup-av-client-metges-sense-fronteres.webp",
+                        "width": 240,
+                        "height": 240
+                    }
+                }
             },
-            "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-metges-sense-fronteres.webp",
-                "width": 240,
-                "height": 240
-            }
-        }
-    },
-    {
-        "name": "Asociación Bienestar y Desarrollo",
-        "img": {
-            "color": {
-                "url": "/assets/img/clients/backup-av-client-abd-fundacion.webp",
-                "width": 320,
-                "height": 320
+            {
+                "name": "Asociación Bienestar y Desarrollo",
+                "img": {
+                    "color": {
+                        "url": "/assets/img/clients/backup-av-client-abd-fundacion.webp",
+                        "width": 320,
+                        "height": 320
+                    },
+                    "gray": {
+                        "url": "/assets/img/clients/gray/backup-av-client-abd-fundacion.webp",
+                        "width": 240,
+                        "height": 240
+                    }
+                }
             },
-            "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-abd-fundacion.webp",
-                "width": 240,
-                "height": 240
-            }
-        }
-    },
-    {
-        "name": "Universitat Politècnica de Catalunya",
-        "img": {
-            "color": {
-                "url": "/assets/img/clients/backup-av-client-upc.webp",
-                "width": 320,
-                "height": 320
+            {
+                "name": "Universitat Politècnica de Catalunya",
+                "img": {
+                    "color": {
+                        "url": "/assets/img/clients/backup-av-client-upc.webp",
+                        "width": 320,
+                        "height": 320
+                    },
+                    "gray": {
+                        "url": "/assets/img/clients/gray/backup-av-client-upc.webp",
+                        "width": 240,
+                        "height": 240
+                    }
+                }
             },
-            "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-upc.webp",
-                "width": 240,
-                "height": 240
+            {
+                "name": "Institut de Cultura de Barcelona",
+                "img": {
+                    "color": {
+                        "url": "/assets/img/clients/backup-av-client-ajuntament-de-barcelona-icub.webp",
+                        "width": 320,
+                        "height": 320
+                    },
+                    "gray": {
+                        "url": "/assets/img/clients/gray/backup-av-client-ajuntament-de-barcelona-icub.webp",
+                        "width": 240,
+                        "height": 240
+                    }
+                }
             }
-        }
-    },
-    {
-        "name": "Institut de Cultura de Barcelona",
-        "img": {
-            "color": {
-                "url": "/assets/img/clients/backup-av-client-ajuntament-de-barcelona-icub.webp",
-                "width": 320,
-                "height": 320
-            },
-            "gray": {
-                "url": "/assets/img/clients/gray/backup-av-client-ajuntament-de-barcelona-icub.webp",
-                "width": 240,
-                "height": 240
-            }
+        ],
+        "featureImage": {
+            "name": "Imágen destacada de Backup Audiovisuals",
+            "url": "backup-av-featured.webp",
+            "width": 1919,
+            "height": 823
         }
     }
 ]
