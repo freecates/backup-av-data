@@ -9,10 +9,10 @@
             "description": "En <span className={'backup'}>BACK<span>UP</span></span> nos focalizamos en la integración de sistemas y servicios audiovisuales para tu empresa y en una amplia variedad de espacios. Nos avala una trayectoria solvente de más de 20 años."
         },
         "featureImage": {
-            "name": "Imágen destacada de Backup Audiovisuals",
-            "url": "backup-av-featured.webp",
-            "width": 1919,
-            "height": 823
+            "name": "Imágen destacada de Backup Audiovisuals clientes",
+            "url": "backup-av-clients-featured.webp",
+            "width": 2000,
+            "height": 970
         }
     }
 ]
