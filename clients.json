@@ -122,11 +122,11 @@
                 }
             }
         ],
-        "featureImage": {
-            "name": "Imágen destacada de Backup Audiovisuals",
-            "url": "backup-av-featured.webp",
-            "width": 1919,
-            "height": 823
+        "featuredImage": {
+            "name": "Imágen destacada de Backup Audiovisuals clientes",
+            "url": "backup-av-clients-featured.webp",
+            "width": 2000,
+            "height": 970
         }
     }
 ]
