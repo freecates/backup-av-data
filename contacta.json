@@ -16,7 +16,7 @@
                 "href": "mailto:info@backup-av.com"
             },
             "map": {
-                "url": "https://www.google.com/maps/dir/41.4120329,2.1960539/Carrer+de+Josep+Soldevila,+37,+08030+Barcelona/@41.420118,2.183853,15z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x12a4bcce33482357:0x436343454cfa21aa!2m2!1d2.1951184!2d41.428244!3e2",
+                "url": "https://www.google.com/maps/dir/?api=1&destination=41.428244,2.1929297",
                 "title": "Cómo llegar"
             }
         },
