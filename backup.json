@@ -1,12 +1,16 @@
-[
-    {
+{
+    "es": {
         "meta": {
             "pageTitle": "Backup Audiovisuals",
             "title": "Integración de sistemas audiovisuales",
             "pageDescription": "Nos focalizamos en la integración de sistemas y servicios audiovisuales para tu empresa y en una amplia variedad de espacios"
         },
         "content": {
-            "description": "En <span className={'backup'}>BACK<span>UP</span></span> nos focalizamos en la integración de sistemas y servicios audiovisuales para tu empresa y en una amplia variedad de espacios. Nos avala una trayectoria solvente de más de 20 años."
+            "description": "En <span class='backup'>BACK<span>UP</span></span> nos focalizamos en la integración de sistemas y servicios audiovisuales para tu empresa y en una amplia variedad de espacios. Nos avala una trayectoria solvente de más de 20 años."
+        },
+        "features": {
+            "title": "¿Por qué <span class='backup'>BACK<span>UP</span></span>?",
+            "description": "Entidades y empresas líderes confían en nuestros servicios"
         },
         "featuredImage": {
             "name": "Imágen destacada de Backup Audiovisuals",
@@ -14,5 +18,25 @@
             "width": 1919,
             "height": 823
         }
+    },
+    "ca": {
+        "meta": {
+            "pageTitle": "Backup Audiovisuals",
+            "title": "Integració de sistemes audiovisuals",
+            "pageDescription": "Ens focalitzem en la integració de sistemes i serveis audiovisuals per a la teva empresa i en una àmplia varietat d'espais"
+        },
+        "content": {
+            "description": "A <span class='backup'>BACK<span>UP</span></span> ens focalitzem en la integració de sistemes i serveis audiovisuals per a la teva empresa i en una àmplia varietat d'espais. Ens avala una trajectòria solvent de més de 20 anys."
+        },
+        "features": {
+            "title": "Per què <span class='backup'>BACK<span>UP</span></span>?",
+            "description": "Entitats i empreses líders confien en els nostres serveis"
+        },
+        "featuredImage": {
+            "name": "Imatge destacada de Backup Audiovisuals",
+            "url": "backup-av-featured.webp",
+            "width": 1919,
+            "height": 823
+        }
     }
-]
+}

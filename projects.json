@@ -1,0 +1,32 @@
+{
+    "es": {
+        "meta": {
+            "pageTitle": "Proyectos",
+            "title": "Proyectos Backup AV",
+            "pageDescription": "Proyectos Backup AV"
+        },
+        "content": {
+            "title": "Vuestros proyectos son nuestro hogar",
+            "description": "Aquí hay algunos que nos encantaría compartir."
+        },
+        "button": {
+            "name": "Contacta",
+            "url": "/es/contacta"
+        }
+    },
+    "ca": {
+        "meta": {
+            "pageTitle": "Projectes",
+            "title": "Projectes Backup AV",
+            "pageDescription": "Projectes Backup AV"
+        },
+        "content": {
+            "title": "Els vostres projectes són la nostra llar",
+            "description": "Aquí n'hi ha alguns que ens encantaria compartir."
+        },
+        "button": {
+            "name": "Contacta",
+            "url": "/ca/contacta"
+        }
+    }
+}

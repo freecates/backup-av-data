@@ -1,14 +1,30 @@
-[
-    {
-        "route": "/aviso-legal",
-        "name": "Aviso Legal"
-    },
-    {
-        "route": "/politica-de-cookies",
-        "name": "Politica de Cookies"
-    },
-    {
-        "route": "/politica-de-privacidad",
-        "name": "Política de Privacidad"
-    }
-]
+{
+    "es": [
+        {
+            "route": "/es/aviso-legal",
+            "name": "Aviso Legal"
+        },
+        {
+            "route": "/es/politica-de-cookies",
+            "name": "Politica de Cookies"
+        },
+        {
+            "route": "/es/politica-de-privacidad",
+            "name": "Política de Privacidad"
+        }
+    ],
+    "ca": [
+        {
+            "route": "/ca/avis-legal",
+            "name": "Avís Legal"
+        },
+        {
+            "route": "/ca/politica-de-cookies",
+            "name": "Politica de Cookies"
+        },
+        {
+            "route": "/ca/politica-de-privacitat",
+            "name": "Política de Privacitat"
+        }
+    ]
+}

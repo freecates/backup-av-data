@@ -1,5 +1,5 @@
-[
-    {
+{
+    "es": {
         "meta": {
             "pageTitle": "Backup Audiovisuals",
             "title": "Integración de sistemas audiovisuales",
@@ -17,7 +17,8 @@
             },
             "map": {
                 "url": "https://www.google.com/maps/dir//Carrer+de+Josep+Soldevila,+37,+08030+Barcelona/@41.428244,2.1929297",
-                "title": "Cómo llegar"
+                "title": "Cómo llegar",
+                "name": "Ubicación"
             }
         },
         "featuredImage": {
@@ -26,5 +27,34 @@
             "width": 2000,
             "height": 566
         }
+    },
+    "ca": {
+        "meta": {
+            "pageTitle": "Backup Audiovisuals",
+            "title": "Integració de sistemes audiovisuals",
+            "pageDescription": "A BACKUP ens focalitzem en la integració de sistemes i serveis audiovisuals per a la teva empresa i una àmplia varietat d'espais. Ens avala una trajectòria solvent de més de 20 anys.",
+            "name": "BACK<span>UP</span> Audiovisuals",
+            "address": "Carrer de Josep Soldevila, 37, 08030 Barcelona",
+            "phone": {
+                "number": "93 605 06 37",
+                "href": "tel:0034936050637"
+            },
+            "web": "backup-av.com",
+            "email": {
+                "address": "info@backup-av.com",
+                "href": "mailto:info@backup-av.com"
+            },
+            "map": {
+                "url": "https://www.google.com/maps/dir//Carrer+de+Josep+Soldevila,+37,+08030+Barcelona/@41.428244,2.1929297",
+                "title": "Com arribar",
+                "name": "Ubicació"
+            }
+        },
+        "featuredImage": {
+            "name": "Imatge destacada de Backup Audiovisuals Contacte",
+            "url": "backup-av-contacto.webp",
+            "width": 2000,
+            "height": 566
+        }
     }
-]
+}

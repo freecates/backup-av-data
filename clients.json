@@ -1,11 +1,36 @@
-[
-    {
-
+{
+    "es": {
+        "meta": {
+            "pageTitle": "Clientes",
+            "title": "Clientes Backup AV",
+            "pageDescription": "Clientes Backup AV"
+        },
+        "content": {
+            "title": "Ellos nos han dado su confianza",
+            "description": "Esperamos poder contar con la tuya"
+        },
         "featuredImage": {
             "name": "Imágen destacada de Backup Audiovisuals clientes",
             "url": "backup-av-clients-featured.webp",
             "width": 2000,
             "height": 970
         }
+    },
+    "ca": {
+        "meta": {
+            "pageTitle": "Clients",
+            "title": "Clients Backup AV",
+            "pageDescription": "Clients Backup AV"
+        },
+        "content": {
+            "title": "Ells ens han donat la confiança",
+            "description": "Esperem poder comptar amb la teva"
+        },
+        "featuredImage": {
+            "name": "Imatge destacada de Backup Audiovisuals clients",
+            "url": "backup-av-clients-featured.webp",
+            "width": 2000,
+            "height": 970
+        }
     }
-]
+}

@@ -1,15 +1,31 @@
- 
-[
-    {
-        "route": "/",
-        "name": "Backup Audiovisuals"
-    },
-    {
-        "route": "/proyectos",
-        "name": "Proyectos"
-    },
-    {
-        "route": "/clientes",
-        "name": "Clientes"
-    }
-]
+{
+    "es": [
+        {
+            "route": "/es",
+            "name": "Backup Audiovisuals"
+        },
+        {
+            "route": "/es/projects",
+            "name": "Proyectos"
+        },
+        {
+            "route": "/es/clients",
+            "name": "Clientes"
+        }
+    ],
+
+    "ca": [
+        {
+            "route": "/ca",
+            "name": "Backup Audiovisuals"
+        },
+        {
+            "route": "/ca/projects",
+            "name": "Projectes"
+        },
+        {
+            "route": "/ca/clients",
+            "name": "Clients"
+        }
+    ]
+}
